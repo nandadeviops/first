@@ -5,3 +5,5 @@ nanda devi
 devops file
 this is merge conflict line1
 this is merge conflict line 2
+this is new line1 by rakesh
+this is new line2 by rakesh
